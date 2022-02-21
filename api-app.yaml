@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: api-app
-        image: exastro/epochsampleappui:master.20210708183910
+        image: exastro/epochsampleappui:main.20220218-135327
         ports:
         - name: http
           containerPort: 8000
